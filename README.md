@@ -1,2 +1,2 @@
-# pfx-covariance
-Portfolio Effects covariance subgroup.
+# pfx-covariation
+Portfolio Effects covariation subgroup.
